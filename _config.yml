@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yushu Zeng"
   pronouns         : "she/her"  
   bio              : "Thank you for visiting my website!"
@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=xQWMPOkAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-5995-4085"
+  orcid            : "https://orcid.org/0000-0003-4905-861X"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
