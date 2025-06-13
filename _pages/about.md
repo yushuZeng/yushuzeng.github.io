@@ -18,7 +18,7 @@ If you have any questions that I can help with, please feel free to reach out vi
 
 
 Education: 
-======
+
 Ph.D. in Industrial Engineering and Decision Analytics, Hong Kong University of Science and Technology, Aug 2019 - June 2025 (be advised by Prof. Ying-Ju Chen and Prof. Xin Wang)
 
 B.Sc. in Management Science, University of Science and Technology of China, Aug 2015 - Jun 2019
